@@ -1,5 +1,4 @@
-# E-commerce-backend-Spring-boot-application
-Designed and implemented a RESTful API for an e-commerce platform, providing essential features such as product management, user operations, and order processing. Built using Java and Spring Boot, with Hibernate for ORM, Maven for project management, and MySQL as the backend database.
+
 <img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/273fc19a-9dae-4fd9-948a-509754aedc52" />
 
 RESTful API for e-commerce, engineered utilizing the Spring Boot framework and the Java programming language. This API adheres to the principles of RESTful architecture and is designed with scalability and maintainability at the forefront, allowing for effortless integration with third-party applications.
